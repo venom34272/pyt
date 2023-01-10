@@ -4,3 +4,6 @@ print(myset)
 
 myset.append='grow'
 print(myset)
+
+myset.insert(0,4)
+print(myset)
